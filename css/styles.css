@@ -1,0 +1,71 @@
+h1{
+    font-family: 'Lobster', cursive;
+    background-image: url("../img/libros_abiertos.jpg");
+    color:rgb(226, 226, 226);
+    text-align:center;
+}
+
+
+h2{
+    font-family: 'Caveat', cursive;
+    margin-top: 20px;
+    margin-bottom: 35px;
+    font-size: 38px;
+}
+
+body{background-color: rgb(226, 226, 226);}
+
+h3{
+    font-family: 'Caveat', cursive;
+    font-size: 38px;
+}
+.texto{
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+}
+h4{
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+}
+ul{
+    font-size: 25px;
+}
+.img-fluid{
+    margin-top:20px ; 
+}
+.peliculas{
+    font-family: 'Caveat', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Noticia Text', serif;
+font-family: 'Acme', sans-serif;
+}
+p{
+    font-family: 'Caveat', cursive;
+    font-size:35px;
+}
+li{
+    font-family: 'Caveat', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Noticia Text', serif;
+    font-family: 'Acme', sans-serif;
+    font-size: 35px;
+}
+
+.series{
+    font-family: 'Caveat', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Noticia Text', serif;
+font-family: 'Acme', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
